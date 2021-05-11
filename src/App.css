@@ -1,0 +1,14 @@
+.homepage img{
+height: 400px;
+width: auto;
+margin: auto;
+}
+.card-container img{
+    height: 40vh;
+    width: 300px;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 15px;
+}
+.card-container div{
+    border: 2px solid green;
+}
